@@ -3,5 +3,26 @@
     "passWord":"[data-test=password]",
     "loginButton":"[data-test=login-button]",
     "Name1":"standard_user",
-    "userPassWord":"secret_sauce"
+    "userPassWord":"secret_sauce",
+    "product1":"#add-to-cart-sauce-labs-backpack",
+    "product2":"#add-to-cart-sauce-labs-bolt-t-shirt",
+    "product3":"#add-to-cart-sauce-labs-fleece-jacket",
+    "globalFilter":"[data-test=product_sort_container]",
+    "Filter1":":nth-child(2) > :nth-child(1) > #inventory_container",
+     "Filter1Text":"Name (Z to A)",
+    "cart":".shopping_cart_link",
+    "removeFromCart":"#remove-sauce-labs-bolt-t-shirt",
+    "checkout": "#checkout",
+    "firstName":"#first-name",
+    "lastName": "#last-name",
+    "postalCode": "#postal-code",
+    "continue":"#continue",
+    "Name2":"Basirat",
+    "Name3":"Aboyeji",
+    "pCODE":"101212",
+    "finish":"#finish",
+    "back":"#back-to-products",
+    "menu":".bm-burger-button",
+    "logout":"#logout_sidebar_link"
+
 }
